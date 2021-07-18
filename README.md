@@ -2,7 +2,7 @@
 
 ## Analysis the data
 
-#### By analysing we came to these decisions:
+### By analysing we came to these decisions:
 
 * female have more chances of survival as compared to male.
 * higher the number of your class higher is the survival rate.
@@ -10,7 +10,7 @@
 
 ## Visualize the data
 
-#### By visualizing we came to these decisions:
+### By visualizing we came to these decisions:
 
 * Younger and older people survived.
 * The middle age (20-40) people did not survive.
@@ -24,7 +24,7 @@
 
 ## Machine Learning Models
 
-#### In this we are comparing between 5 models and based on the accuracy, we will able to decide whether which model is perfect for this problem.
+### In this we are comparing between 5 models and based on the accuracy, we will able to decide whether which model is perfect for this problem.
 
 * These five models are: 
 * 1. Logistic Regression
