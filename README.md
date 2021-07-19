@@ -1,5 +1,7 @@
 # 270300_Titanic Challenge
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/87fc325c20584526b6b64c8ff3633125)](https://www.codacy.com/gh/NitinTyagi019/270300_Project-Submission/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NitinTyagi019/270300_Project-Submission&amp;utm_campaign=Badge_Grade)
+
 ## Analysis the data
 
 ### By analysing we came to these decisions:
@@ -41,6 +43,6 @@
 
 * Accuracy of these models comes out to be 86.31 .
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/87fc325c20584526b6b64c8ff3633125)](https://www.codacy.com/gh/NitinTyagi019/270300_Project-Submission/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NitinTyagi019/270300_Project-Submission&amp;utm_campaign=Badge_Grade)
+
 
 
